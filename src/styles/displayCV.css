@@ -1,0 +1,10 @@
+#displayCV {
+  padding: 2rem;
+  border-radius: 5px;
+  width: 50%;
+  background-color: rgb(215, 249, 255);
+  /* box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.3); */
+  border: 2px solid #646cffaa;
+  height: fit-content;
+  text-align: center;
+}
